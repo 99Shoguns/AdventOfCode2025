@@ -33,7 +33,7 @@ public class Main {
     }
 
     public static void getDay1Input() {
-        String filePath = "/Users/99shoguns/IdeaProjects/AdventOfCode2025/src/Day1/Day1Input.txt";
+        String filePath = "src/Day1/Day1Input.txt";
 
         String direction;
         int distance;
